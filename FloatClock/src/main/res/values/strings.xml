@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FloatClock</string>
+    <string name="hint_text">FloatClock</string>
+    <string name="open_suspendedWindow">Open Suspended Window</string>
+    <string name="close_suspendedWindow">Close Suspended Window</string>
+</resources>

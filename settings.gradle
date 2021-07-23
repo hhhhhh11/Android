@@ -1,0 +1,4 @@
+rootProject.name = "FloatClock"
+include ':FloatClock'
+include ':MaterialTest'
+include ':StartTV'

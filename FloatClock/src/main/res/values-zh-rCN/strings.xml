@@ -1,0 +1,6 @@
+<resources>
+	<string name="app_name">浮动时钟</string>
+	<string name="hint_text">浮动时钟</string>
+	<string name="open_suspendedWindow">打开悬浮窗</string>
+	<string name="close_suspendedWindow">关闭悬浮窗</string>
+</resources>
